@@ -11,6 +11,8 @@ class Triangle
   end
 
   def self.all
-    @@.sides()
+    @@sides.values()
   end
 end
+
+# Co-authored-by: Isaac Overstreet <isaacoverstreet3@gmail.com>
